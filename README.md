@@ -1,4 +1,4 @@
-# Azure_Data_Pipeline_for_COVID_Analytics
+# Azure Data Pipeline for COVID_Analytics
 
 ## Project Overview
 
